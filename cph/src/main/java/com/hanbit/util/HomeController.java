@@ -1,4 +1,4 @@
-package com.cph.web;
+package com.hanbit.util;
 
 import java.text.DateFormat;
 import java.util.Date;

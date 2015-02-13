@@ -1,4 +1,4 @@
-package com.cph.vo;
+package com.hanbit.vo;
 
 public class Member {
 	private String username;
